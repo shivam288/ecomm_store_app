@@ -27,5 +27,8 @@ double price =123.90;
 
 
 	}
+//jira-102
+public void m2(){
 
+}
 }
