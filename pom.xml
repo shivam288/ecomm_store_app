@@ -10,7 +10,11 @@
 	</parent>
 	<groupId>in.ashokit</groupId>
 	<artifactId>01_sb_app</artifactId>
+
 	<version>0.0.2-RELEASE</version>
+
+
+
 	<name>01_sb_app</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
